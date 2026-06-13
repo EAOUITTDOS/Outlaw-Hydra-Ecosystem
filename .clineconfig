@@ -1,0 +1,7 @@
+{
+  "agent": "Cline",
+  "model": "gpt-4o",
+  "rules": ".cursorrules",
+  "project": "Outlaw-Hydra-Ecosystem",
+  "ecc_enabled": true
+}
