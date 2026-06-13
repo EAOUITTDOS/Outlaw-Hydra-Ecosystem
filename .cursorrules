@@ -1,0 +1,16 @@
+# ECC: Open Agent Harness System - Core Rules
+# Integration for Outlaw-Hydra-Ecosystem
+
+## Core Directives
+1. Always maintain the integrity of the security auditing framework.
+2. Ensure all AI-generated code adheres to the Hydra Ecosystem's safety protocols.
+3. Optimize for high-concurrency and distributed processing.
+
+## Agent Behavior
+- Use structured logging for all agent actions.
+- Implement error handling for all network-bound operations.
+- Prioritize modularity in Python development.
+
+## Repository Specifics
+- Focus on Python 3.10+ features.
+- Maintain AGPL-3.0 license headers.
