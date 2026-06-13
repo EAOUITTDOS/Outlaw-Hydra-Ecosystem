@@ -1,0 +1,12 @@
+# OpenHands configuration for Outlaw-Hydra-Ecosystem
+
+[core]
+workspace_base = "./"
+language = "en"
+
+[agent]
+name = "OpenHands"
+default_model = "gpt-4o"
+
+# ECC Integration
+# Using rules from .cursorrules
