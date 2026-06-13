@@ -1,0 +1,6 @@
+# Aider configuration for Outlaw-Hydra-Ecosystem
+model: gpt-4o
+edit-format: whole
+auto-commits: true
+show-diffs: true
+# ECC Integration active
